@@ -1,7 +1,7 @@
 ## Firebase Authentication App
 This project is for the authentication using Firebase where we register user taking there email and password and then log them in when correct credentials are provided
 
-`Just replace your google-services.json file with mine and you are good to go`
+`Note: Just replace your google-services.json file with mine and you are good to go`
 
 
 ## Command to clone this project using Git
